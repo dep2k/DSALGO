@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='UnpairedElements'/>
+        <page name='SmallesMissingPositiveNumber'/>
+        <page name='MissingElement'/>
+        <page name='Distinct'/>
+        <page name='ArrayRotation'/>
+        <page name='BinarySearch'/>
+        <page name='FindElementinSortedRotatedArray'/>
+        <page name='FindMissingElement'/>
+        <page name='MinimumDiffTwoElements'/>
+        <page name='RearrangeNegPos'/>
+        <page name='RearrangeElementsWithSameAndSortedArray'/>
+        <page name='MaximumProductOfThree'/>
+        <page name='CountDiv'/>
+    </pages>
+</playground>

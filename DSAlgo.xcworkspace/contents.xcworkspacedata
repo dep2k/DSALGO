@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Playgrounds/BitwiseOperators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/Tree.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/Strings.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/IsStringRotated.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/MyDictionary.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/LinkedList.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/Array.playground">
+   </FileRef>
+</Workspace>

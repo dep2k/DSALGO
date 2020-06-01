@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Reverse'/>
+        <page name='Palindrome'/>
+        <page name='VowelsAndConsonents'/>
+        <page name='FindMissingCharacterToMakeStringPanagram'/>
+        <page name='FindPanagrams'/>
+        <page name='LongestCommonPrefix'/>
+        <page name='RemoveDuplicateCharactersFromString'/>
+        <page name='SameCharactersInTwoStrings'/>
+        <page name='StringIdenticalInlength'/>
+        <page name='UniqueCharacters'/>
+        <page name='RemoveDuplicateCh'/>
+        <page name='RearrangeStringsNoTwoAdjacent'/>
+        <page name='RepeatedString'/>
+    </pages>
+</playground>
