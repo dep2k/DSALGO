@@ -4,5 +4,6 @@
         <page name='InvertBinaryTree'/>
         <page name='MaxDepth'/>
         <page name='LevelOrderTraveral'/>
+        <page name='ConvertSortedArrayToBST'/>
     </pages>
 </playground>
