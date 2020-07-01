@@ -6,5 +6,6 @@
         <page name='LevelOrderTraveral'/>
         <page name='ConvertSortedArrayToBST'/>
         <page name='SymmetricTree'/>
+        <page name='ValidateBST'/>
     </pages>
 </playground>
