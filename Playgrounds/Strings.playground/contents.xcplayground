@@ -14,5 +14,6 @@
         <page name='RemoveDuplicateCh'/>
         <page name='RearrangeStringsNoTwoAdjacent'/>
         <page name='RepeatedString'/>
+        <page name='IsStringRotated'/>
     </pages>
 </playground>

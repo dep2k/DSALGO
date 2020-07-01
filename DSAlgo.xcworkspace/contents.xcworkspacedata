@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Playgrounds/iOS.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/Stack.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/Queue.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/Dictionary.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/Graph.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/Set.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Playgrounds/DynamicProgramming.playground">
+   </FileRef>
+   <FileRef
       location = "group:Playgrounds/BitwiseOperators.playground">
    </FileRef>
    <FileRef
@@ -9,12 +30,6 @@
    </FileRef>
    <FileRef
       location = "group:Playgrounds/Strings.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Playgrounds/IsStringRotated.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Playgrounds/MyDictionary.playground">
    </FileRef>
    <FileRef
       location = "group:Playgrounds/LinkedList.playground">

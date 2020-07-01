@@ -14,5 +14,21 @@
         <page name='RearrangeElementsWithSameAndSortedArray'/>
         <page name='MaximumProductOfThree'/>
         <page name='CountDiv'/>
+        <page name='MinimiseCost'/>
+        <page name='TwoCityScheduling'/>
+        <page name='QueueRestructuringByHeight'/>
+        <page name='SortColor'/>
+        <page name='InsertRemoveRandomSearch'/>
+        <page name='LargestSubset'/>
+        <page name='SurroundingRegion'/>
+        <page name='HIndex'/>
+        <page name='RemoveDuplicates'/>
+        <page name='RotateArray'/>
+        <page name='Untitled Page'/>
+        <page name='EfficientShipping'/>
+        <page name='SingleNumber'/>
+        <page name='countQuestionMarks'/>
+        <page name='Untitled Page 2'/>
+        <page name='TwoSum'/>
     </pages>
 </playground>
