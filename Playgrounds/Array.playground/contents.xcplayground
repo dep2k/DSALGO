@@ -28,10 +28,12 @@
         <page name='EfficientShipping'/>
         <page name='SingleNumber'/>
         <page name='countQuestionMarks'/>
-        <page name='Untitled Page 2'/>
+        <page name='MoveZeroes'/>
         <page name='TwoSum'/>
         <page name='BestTimeToBuySellStocks'/>
         <page name='ContainsDuplicate'/>
         <page name='MatrixTranspose'/>
+        <page name='ArrayIntersection'/>
+        <page name='ValidateSoduku'/>
     </pages>
 </playground>
