@@ -30,5 +30,8 @@
         <page name='countQuestionMarks'/>
         <page name='Untitled Page 2'/>
         <page name='TwoSum'/>
+        <page name='BestTimeToBuySellStocks'/>
+        <page name='ContainsDuplicate'/>
+        <page name='MatrixTranspose'/>
     </pages>
 </playground>
