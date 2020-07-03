@@ -36,6 +36,7 @@
         <page name='ArrayIntersection'/>
         <page name='ValidateSoduku'/>
         <page name='RandomPickWithWeight'/>
-        <page name='BestTimeToBuySellStocksOnlyOnce'/>
+        <page name='BestTimeToBuySellStock'/>
+        <page name='MaxContinguousSum'/>
     </pages>
 </playground>
