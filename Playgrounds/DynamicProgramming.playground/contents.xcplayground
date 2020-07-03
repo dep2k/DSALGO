@@ -4,5 +4,6 @@
         <page name='FindChepestPrice'/>
         <page name='Untitled Page'/>
         <page name='IsSubsequence'/>
+        <page name='HouseRobber'/>
     </pages>
 </playground>
