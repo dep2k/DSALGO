@@ -35,5 +35,7 @@
         <page name='MatrixTranspose'/>
         <page name='ArrayIntersection'/>
         <page name='ValidateSoduku'/>
+        <page name='RandomPickWithWeight'/>
+        <page name='BestTimeToBuySellStocksOnlyOnce'/>
     </pages>
 </playground>
