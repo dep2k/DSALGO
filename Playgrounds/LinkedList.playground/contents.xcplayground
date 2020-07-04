@@ -6,5 +6,6 @@
         <page name='ReverseLinkedList'/>
         <page name='RemoveNthNodeFromEnd'/>
         <page name='MergeSortedLinkedLists'/>
+        <page name='LinkedListCycle'/>
     </pages>
 </playground>
