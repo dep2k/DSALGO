@@ -13,10 +13,9 @@ func lastStoneWeight(_ stones: [Int]) -> Int {
     var heap = Heap<Int>(array: stones) { (v1, v2) -> Bool in
         return v1 > v2
     }
-    
     var n = stones.count
     while (n > 1) {
-        guard let v1 = heap.remove(), v2 = heap.remove()
+        guard let v1 = heap.remove(), let v2 = heap.remove() else { return -1}
         if (v1 == v2) {
             n -= 2
         } else {
@@ -24,33 +23,11 @@ func lastStoneWeight(_ stones: [Int]) -> Int {
             heap.insert(abs(v1 - v2))
         }
     }
-
-    return heap.peek()!
+    return (n == 0) ? 0 : heap.peek()!
+    
 }
 
 let l = lastStoneWeight([1,2,3,3,4])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 public struct Heap<T> {
