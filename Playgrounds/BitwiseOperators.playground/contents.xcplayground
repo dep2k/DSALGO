@@ -8,5 +8,8 @@
         <page name='CountSetBits'/>
         <page name='RotateOddEventBit'/>
         <page name='RightMostSetBit'/>
+        <page name='LeftRotateNumberByK'/>
+        <page name='PowerOfTwo'/>
+        <page name='HammingDistance'/>
     </pages>
 </playground>
