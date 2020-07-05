@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Playgrounds/Math.playground">
+   </FileRef>
+   <FileRef
       location = "group:Playgrounds/Heap.playground">
    </FileRef>
    <FileRef
