@@ -24,7 +24,7 @@
         <page name='HIndex'/>
         <page name='RemoveDuplicates'/>
         <page name='RotateArray'/>
-        <page name='Untitled Page'/>
+        <page name='UglyNumbers'/>
         <page name='EfficientShipping'/>
         <page name='SingleNumber'/>
         <page name='countQuestionMarks'/>
@@ -39,5 +39,7 @@
         <page name='BestTimeToBuySellStock'/>
         <page name='MaxContinguousSum'/>
         <page name='PrisonCellAferNDays'/>
+        <page name='plusone'/>
+        <page name='Untitled Page 2'/>
     </pages>
 </playground>
