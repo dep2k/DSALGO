@@ -21,6 +21,7 @@ class Solution {
       return isBSTUtil(root, &prev)
     }
     
+    // In order traversal
     private func isBSTUtil(_ root: TreeNode?, _ prev: inout Int) -> Bool {
          if (root != nil) {
             if (!isBSTUtil(root!.left, &prev)) {
