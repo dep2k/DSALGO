@@ -8,5 +8,6 @@
         <page name='SymmetricTree'/>
         <page name='ValidateBST'/>
         <page name='LevelOrderTraversalBottomUp'/>
+        <page name='WidthOfBinaryTree'/>
     </pages>
 </playground>
