@@ -40,7 +40,10 @@
         <page name='MaxContinguousSum'/>
         <page name='PrisonCellAferNDays'/>
         <page name='plusone'/>
-        <page name='Untitled Page 2'/>
+        <page name='UniqueSubsets'/>
         <page name='3Sums'/>
+        <page name='MaxAdjacentDistanceIndices'/>
+        <page name='MaxBiValueLength'/>
+        <page name='Subsets'/>
     </pages>
 </playground>

@@ -11,5 +11,6 @@
         <page name='LeftRotateNumberByK'/>
         <page name='PowerOfTwo'/>
         <page name='HammingDistance'/>
+        <page name='ReverseBits'/>
     </pages>
 </playground>
