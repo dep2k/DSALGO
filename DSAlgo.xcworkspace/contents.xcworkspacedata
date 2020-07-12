@@ -8,9 +8,6 @@
       location = "group:Playgrounds/Heap.playground">
    </FileRef>
    <FileRef
-      location = "group:Playgrounds/iOS.playground">
-   </FileRef>
-   <FileRef
       location = "group:Playgrounds/Stack.playground">
    </FileRef>
    <FileRef
