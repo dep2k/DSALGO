@@ -42,3 +42,7 @@ var arr = [0,3,3,7,5,3,11,1]
 //var arr = [1,4,7,3,3,5]
 //var arr = [1,1,1,1,1]
 let v = maxAdjacentDistanceIndices(&arr)
+
+let arr1 = [1,2]
+let arr2 = [3,4]
+let arr3 = arr1 + arr2
