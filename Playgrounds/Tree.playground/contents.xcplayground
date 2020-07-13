@@ -9,5 +9,6 @@
         <page name='ValidateBST'/>
         <page name='LevelOrderTraversalBottomUp'/>
         <page name='WidthOfBinaryTree'/>
+        <page name='SameTree'/>
     </pages>
 </playground>
