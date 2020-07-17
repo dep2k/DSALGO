@@ -12,5 +12,6 @@
         <page name='PowerOfTwo'/>
         <page name='HammingDistance'/>
         <page name='ReverseBits'/>
+        <page name='Power'/>
     </pages>
 </playground>
