@@ -3,6 +3,8 @@
 import Foundation
 
 func topKFrequent(_ nums: [Int], _ k: Int) -> [Int] {
+    var a = String?
+    Optional
     var map = [Int: Int]()
     for num in nums {
         map[num, default: 0] += 1

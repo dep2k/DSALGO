@@ -7,5 +7,7 @@
         <page name='RemoveNthNodeFromEnd'/>
         <page name='MergeSortedLinkedLists'/>
         <page name='LinkedListCycle'/>
+        <page name='IsPalindrome'/>
+        <page name='RemoveLinkedListElement'/>
     </pages>
 </playground>
