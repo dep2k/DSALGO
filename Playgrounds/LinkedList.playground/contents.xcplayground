@@ -9,5 +9,6 @@
         <page name='LinkedListCycle'/>
         <page name='IsPalindrome'/>
         <page name='RemoveLinkedListElement'/>
+        <page name='AddTwoNumbers'/>
     </pages>
 </playground>

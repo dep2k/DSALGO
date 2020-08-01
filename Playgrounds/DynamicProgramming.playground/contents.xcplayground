@@ -2,8 +2,11 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='FindChepestPrice'/>
-        <page name='Untitled Page'/>
+        <page name='ClimbStairs'/>
         <page name='IsSubsequence'/>
         <page name='HouseRobber'/>
+        <page name='ChangeCoiins'/>
+        <page name='Untitled Page 2'/>
+        <page name='Climb'/>
     </pages>
 </playground>
