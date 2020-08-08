@@ -15,5 +15,9 @@
         <page name='RearrangeStringsNoTwoAdjacent'/>
         <page name='RepeatedString'/>
         <page name='IsStringRotated'/>
+        <page name='EfficientShipping'/>
+        <page name='DetectCapital'/>
+        <page name='Untitled Page'/>
+        <page name='ValidIP'/>
     </pages>
 </playground>
